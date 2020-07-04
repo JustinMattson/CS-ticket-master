@@ -1,0 +1,13 @@
+C:\Users\toyvo\source\codeworks\summer2020\c#\ticketMaster\bin\Debug\netcoreapp3.1\ticketMaster.exe
+C:\Users\toyvo\source\codeworks\summer2020\c#\ticketMaster\bin\Debug\netcoreapp3.1\ticketMaster.deps.json
+C:\Users\toyvo\source\codeworks\summer2020\c#\ticketMaster\bin\Debug\netcoreapp3.1\ticketMaster.runtimeconfig.json
+C:\Users\toyvo\source\codeworks\summer2020\c#\ticketMaster\bin\Debug\netcoreapp3.1\ticketMaster.runtimeconfig.dev.json
+C:\Users\toyvo\source\codeworks\summer2020\c#\ticketMaster\bin\Debug\netcoreapp3.1\ticketMaster.dll
+C:\Users\toyvo\source\codeworks\summer2020\c#\ticketMaster\bin\Debug\netcoreapp3.1\ticketMaster.pdb
+C:\Users\toyvo\source\codeworks\summer2020\c#\ticketMaster\obj\Debug\netcoreapp3.1\ticketMaster.csprojAssemblyReference.cache
+C:\Users\toyvo\source\codeworks\summer2020\c#\ticketMaster\obj\Debug\netcoreapp3.1\ticketMaster.AssemblyInfoInputs.cache
+C:\Users\toyvo\source\codeworks\summer2020\c#\ticketMaster\obj\Debug\netcoreapp3.1\ticketMaster.AssemblyInfo.cs
+C:\Users\toyvo\source\codeworks\summer2020\c#\ticketMaster\obj\Debug\netcoreapp3.1\ticketMaster.csproj.CoreCompileInputs.cache
+C:\Users\toyvo\source\codeworks\summer2020\c#\ticketMaster\obj\Debug\netcoreapp3.1\ticketMaster.dll
+C:\Users\toyvo\source\codeworks\summer2020\c#\ticketMaster\obj\Debug\netcoreapp3.1\ticketMaster.pdb
+C:\Users\toyvo\source\codeworks\summer2020\c#\ticketMaster\obj\Debug\netcoreapp3.1\ticketMaster.genruntimeconfig.cache
